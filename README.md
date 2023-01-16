@@ -69,5 +69,10 @@ https://youtu.be/vUdz7hPB1lI
 
 En relación a lo anterior expuesto, se puede demostrar que el aprendizaje teorico es de mucha importancia a la hora manipular los distintos circuitos electrónicos, ta que nos facilitan considerablemente el uso de estos y evitar errores.
 
-
 ## 7. BIBLIOGRAFIA
+
+Galobart, N. (2023, 9 enero). Toma tierra, neutro y fase: Funciones y características •. Fontgas. https://www.fontgas.com/blog/toma-tierra-neutro-y-fase-funciones-y-caracteristicas/
+
+Circuito En Escalera. (s. f.). https://cienciayt.com/electronica/circuitos-electricos/circuito-en-escalera/
+
+Interruptor de 3 Vías: ¿Qué es?, ¿Cómo instalarlo?, ¿Para qué sirve? (2022, 3 octubre). Grupo Casa Lima. https://grupocasalima.com/es-ec/blog/interruptor-de-3-vias-que-es-como-instalarlo-para-que-sirve/
