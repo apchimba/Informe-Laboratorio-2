@@ -13,7 +13,7 @@
 
 ## 2. MARCO TEORICO
 
-![](https://github.com/apchimba/Informe-Laboratorio-2/blob/main/circuitoescalera.png)
+![](https://github.com/apchimba/Informe-Laboratorio-2/blob/main/Circuitoescalera.png)
 
 ## 3. EXPLICACION DEL PROCEDIMIENTO
 
