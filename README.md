@@ -13,9 +13,12 @@
 
 ## 2. MARCO TEORICO
 
+![](https://github.com/apchimba/Informe-Laboratorio-2/blob/main/circuitoescalera.png)
 
 ## 3. EXPLICACION DEL PROCEDIMIENTO
 
+
+![](https://github.com/apchimba/Informe-Laboratorio-2/blob/main/vaiven.png)
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
@@ -42,7 +45,7 @@ El proyecto led nocturno automático es un circuito sencillo que enciende y apag
 
 Para la elaboración de este proyecto se utilizaron los siguientes materiales:
 
-![](https://github.com/apchimba/Informe-Laboratorio-1/blob/main/Materiales.png)
+![](https://github.com/apchimba/Informe-Laboratorio-2/blob/main/materialesescalera.png)
 
 ### 4.5. PROCEDIMIENTO
 
