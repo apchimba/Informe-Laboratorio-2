@@ -47,7 +47,28 @@ Para la elaboración de este proyecto se utilizaron los siguientes materiales:
 
 ### 4.5. PROCEDIMIENTO
 
+1. Colocamos las cajas y mangueras sobre la superficie en la cuel vamos a ensamblar el circuito.
 
+2. Llevamos dos cables denominados "retornos" a cada una de las cajas de registro que van a comunicar los interruptores.
+
+3. Llevamos una fase desde la caja octogonal a una de las cajas de registro
+
+4. Colocamos a partir de la caja de registro restante un cable hacia la caja octogonal que actuara de retorno
+
+5. Empalmamos las conecciones:
+  5.1. Desforramos las puntas de todos los cables.
+  5.2. Conectamos la fase en el pin del medio de cualquiera de los interruptores
+  5.3. Conectamos en los pines restantes los cables de retorno que comunican los interruptores
+  5.4. Conectamos el cable de retorno (neutro) en el pin medio del interruptor restante.
+  5.5. repetimos el punto 5.3. en el interruptor.
+
+6. Aseguramos los interruptores a las cajas de registro
+
+7. Conectamos la boquilla:
+  7.1. conectamos el neutro en la boquilla en el tornillo mas alejado del centro
+  7.2. el retorno probeniente del interruptor va conectado al tornillo fase de la roseta
+  7.3. conectamos las fases restantes entre si.
+  
 
 ## 5. VIDEO
 
