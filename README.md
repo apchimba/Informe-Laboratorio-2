@@ -7,9 +7,9 @@
 
 ## 1. OBJETIVOS
 
-- Analizar, comprender y aplicar los conocimientos adquiridos en clase para el desarrollo del proyecto.
-- Aprender la interpretación de diagramas y elementos usados en los circuitos eléctricos.
-- Demostrar el funcionamientio del circuito luz nocturna automática.
+- Analizar y comprender el funcionamiento del circuito - interruptor de 3 vias.
+- Aprender a realizar circuitos eléctricos para encendido y apagado de la luminaria en 2 puntos diferentes.
+- Realizar el montaje de cajetines, boquillas, mangueras en la tabla.
 
 ## 2. MARCO TEORICO
 
@@ -27,19 +27,17 @@
 
 ### 4.1. OBJETIVO DE LA PRACTICA
 
-- Construir un circuito eléctrico capaz de detectar la luminosidad.
-- Identificar el funcionamiento, partes y comportamientos del circuito luz nocturna automática.
+- Construir un circuito eléctrico capaz de encender y apagar un foco desde 2 puntos distintos.
+- Identificar el funcionamiento, partes y comportamientos del circuito - interruptor de 3 vias.
 - Identificar los principios que se hacen presentes en el circuito.
 
 ### 4.2. REQUISITOS PREVIOS
 
-- Conocer las leyes de ohm.
-- Saber las caracteristicas de un circuito en serie y paralelo.
 - conocer las caracteristicas y/o comportamiento de los componentes expuestos en el marco teorico.
 
 ### 4.3. INFORMACION GENERAL
 
-El proyecto led nocturno automático es un circuito sencillo que enciende y apaga la luz mediante una fotoresistencia (sensor) que enciende los diodos led cuando la luz del ambiente disminuye y se apaga cuando la luz aumenta mediante el uso de un transistor que actua como conmutador y un potenciometro que mediante la apliacion de las leyes de ohm nos permite controlar la sensibilidad del circuito.
+El interruptor de 3 vias también conocido como interrptor escalera es un mecanismo eléctrico que permite el encendido y apagado de cualquier carga elécrtica desde 2 puntos. Los interruptores de 3 vias permiten tener control sobre la luminaria, por lo general se los coloca en escaleras, pasillos y cualquier habitación que tenga más de 1 acceso. 
 
 ### 4.4. MATERIAL REQUERIDO
 
@@ -49,17 +47,7 @@ Para la elaboración de este proyecto se utilizaron los siguientes materiales:
 
 ### 4.5. PROCEDIMIENTO
 
-4.5.1. colocamos el transistor en el protoboard
 
-4.5.2. polarizamos el terminal emisor a negativo
-
-4.5.3. conectamos los diodos led al polo colector del transistor hasta llegar al polo positivo del protoboard
-
-4.5.4. conectamos la foto resistencia al polo central del transistor
-
-4.5.6. colocamos el potenciometro y una resistencia en serie hasta llegar a la base del transistor desde la terminal central del potenciometro
-
-4.5.7. colocamos una resistencia que conecte el polo positivo y negativo
 
 ## 5. VIDEO
 
@@ -67,7 +55,8 @@ https://youtu.be/vUdz7hPB1lI
 
 ## 6. CONCLUSIONES
 
-En relación a lo anterior expuesto, se puede demostrar que el aprendizaje teorico es de mucha importancia a la hora manipular los distintos circuitos electrónicos, ta que nos facilitan considerablemente el uso de estos y evitar errores.
+En relación a lo anterior expuesto, se puede demostrar que el aprendizaje teorico es de mucha importancia a la hora manipular los distintos circuitos electrónicos, ya que nos facilitan considerablemente el uso de estos y evitar errores.
+
 
 ## 7. BIBLIOGRAFIA
 
