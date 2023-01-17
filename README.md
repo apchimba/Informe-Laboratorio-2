@@ -15,6 +15,8 @@
 
 ![](https://github.com/apchimba/Informe-Laboratorio-2/blob/main/Circuitoescalera.png)
 
+![](https://github.com/apchimba/Informe-Laboratorio-2/blob/main/alterna.png)
+
 ## 3. EXPLICACION DEL PROCEDIMIENTO
 
 
